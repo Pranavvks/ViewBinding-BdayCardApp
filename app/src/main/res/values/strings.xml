@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BdayCard</string>
+    <string name="hint_text">Pranav</string>
+    <string name="create_birthday_card">Create birthday card</string>
+</resources>
